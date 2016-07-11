@@ -23,3 +23,4 @@ public class HideLauncherAds implements IXposedHookLoadPackage{
 			});
 		}
 	}
+}	
